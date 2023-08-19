@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eyas_Task4.props" />
+</Project>
